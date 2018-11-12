@@ -1,3 +1,6 @@
+// Redirect to Heroku Deployment -- Only for temporary use 
+window.location = "https://hop-stop.herokuapp.com/"
+
 // Global Variables
 var idArray = []
 var latLngArray = []
